@@ -300,6 +300,7 @@ lazy val observe_server: Project = project
         TestLibs.value,
         PPrint.value,
         Clue,
+        ClueHttp4s,
         LucumaSchemas
       ) ++ MUnit.value ++ Http4s ++ Http4sClient ++ PureConfig ++ SeqexecOdb ++ Monocle.value ++ WDBAClient ++
         Circe.value,
