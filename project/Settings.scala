@@ -10,17 +10,17 @@ object Settings {
   /** Library versions */
   object LibraryVersions {
     // ScalaJS libraries
-    val scalaDom                = "1.2.0"
+    val scalaDom                = "2.0.0"
     val scalajsReact            = "2.0.0"
     val booPickle               = "1.4.0"
-    val diode                   = "0.0.0+1-6e5c7c85-SNAPSHOT"
+    val diode                   = "1.2.0-RC3"
     val javaTimeJS              = "2.3.0"
     val scalaJSReactCommon      = "0.14.7"
     val scalaJSSemanticUI       = "0.13.1"
     val scalaJSReactVirtualized = "0.13.1"
     val scalaJSReactClipboard   = "1.5.1"
     val scalaJSReactDraggable   = "0.14.1"
-    val scalaJSReactSortable    = "0.5.1"
+    val scalaJSReactSortable    = "0.5.2"
 
     // Scala libraries
     val catsEffectVersion   = "3.2.9"
